@@ -3,6 +3,19 @@
     <channel>
         <title>FridgeMagnets</title>
         <item>
+            <title>1.0.6</title>
+            <pubDate>Sat, 24 Jun 2023 12:22:09 +0200</pubDate>
+            <sparkle:version>1.0.6</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <description><![CDATA[<h1>Adds Settings Menu Item for Updates</h1>
+]]></description>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/akaalias/GetFridgeMagnets/main/Archive/FridgeMagnets-1.0.6.dmg" length="1260491" type="application/octet-stream" sparkle:edSignature="B9tVqd6dfOsxsFQoixbpX2Z9fLPopMhTjgFg6zV7vlKsuhisMb3Zp0Uouh0Vhyqa8u/UXiwTODTfCElmi2RgAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/akaalias/GetFridgeMagnets/main/Archive/FridgeMagnets1.0.6-1.0.5.delta" sparkle:deltaFrom="1.0.5" length="38258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Fhz0oel28RcXNAVgykZj7nsOig0f0y3SW4WG24Fdqpev6JU/g0QruPBZIp+M67G29qlvGJHKFj3rtzfGLor+DA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.5</title>
             <pubDate>Sat, 24 Jun 2023 12:19:07 +0200</pubDate>
             <sparkle:version>1.0.5</sparkle:version>
