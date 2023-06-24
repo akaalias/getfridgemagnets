@@ -6,3 +6,5 @@ Live photos of your loved ones on your macOS desktop
 
 https://github.com/akaalias/getfridgemagnets/assets/111555/fbc2f59d-5299-4090-8726-5f7d23b254be
 
+## Tasks
+- [ ] Create new release on new update -> https://github.com/marketplace/actions/automatic-releases
