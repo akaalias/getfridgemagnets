@@ -3,6 +3,23 @@
     <channel>
         <title>FridgeMagnets</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Wed, 28 Jun 2023 20:59:11 +0200</pubDate>
+            <sparkle:version>1.1.2</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <description><![CDATA[<h1>🎉 Frames and pictures are now saved!</h1>
+]]></description>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/akaalias/GetFridgeMagnets/main/Archive/FridgeMagnets-1.1.2.dmg" length="1353776" type="application/octet-stream" sparkle:edSignature="PTygUOXxY4kGw6B5ydLPeEr6MrifPdT/L/85nBnXHnA5kBMaRl1qbnPB68FO/IaL0vhuI6WxYHepZ35upzd1Cg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/akaalias/GetFridgeMagnets/main/Archive/FridgeMagnets1.1.2-1.1.0.delta" sparkle:deltaFrom="1.1.0" length="90486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="UW0GBOGNNKEAOoiEfr8PZ5XXaK/dQqOtuBrYs4BCwqXd8YwiUWTmby2M/hhW4FKYnP8fo1gRjYoQm9wFHQFZAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/akaalias/GetFridgeMagnets/main/Archive/FridgeMagnets1.1.2-1.0.9.delta" sparkle:deltaFrom="1.0.9" length="90090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="nTgvYyMd8CwQi0OADtzjWxlb8iJ76Dozj99yjHG4LW1uiAum1j3UdeFM4kjpInHwecbO/t+OZRnw1AN6v2IRAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/akaalias/GetFridgeMagnets/main/Archive/FridgeMagnets1.1.2-1.0.8.delta" sparkle:deltaFrom="1.0.8" length="91266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="0FGYuJl8pan5ZsycaT/UlxhVnHOa6/1QdKqTwBfVuYe1edfnnP1y+LBUKb0qfmaDOHf6DdFYAsor5u4PS0TJBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/akaalias/GetFridgeMagnets/main/Archive/FridgeMagnets1.1.2-1.0.7.delta" sparkle:deltaFrom="1.0.7" length="94822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="MWdGNToXr1wuTZCCXzkut9fpUyTwMbv9aftcADzHq/mcVmSLWuCOT1NZognEkmxpf4WmPe0lid8D5C48Gv0TCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/akaalias/GetFridgeMagnets/main/Archive/FridgeMagnets1.1.2-1.0.6.delta" sparkle:deltaFrom="1.0.6" length="94782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xh5sFm2QNwQWywakTlecEthEn7Dhz7HeB+BuuA+f8iQ0+XlNX/vALr9FWj2TeuRIj7VG9VvId5fzb9T+q8bADw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Sat, 24 Jun 2023 12:58:45 +0200</pubDate>
             <sparkle:version>1.1.0</sparkle:version>
@@ -33,21 +50,6 @@
                 <enclosure url="https://raw.githubusercontent.com/akaalias/GetFridgeMagnets/main/Archive/FridgeMagnets1.0.9-1.0.7.delta" sparkle:deltaFrom="1.0.7" length="36466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="/BNb/9K9GUnFor4GUcLU6gBX5MrlOVmet0qcWhQnr3jvtwrc2wEQ9df9Jq+yc6po1T7gQ7LnDZ9a6jdEWyQ2Dg=="/>
                 <enclosure url="https://raw.githubusercontent.com/akaalias/GetFridgeMagnets/main/Archive/FridgeMagnets1.0.9-1.0.6.delta" sparkle:deltaFrom="1.0.6" length="36194" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="cwzTW8CEiBVLlxXauEcNsbf9BDYnLcStj7AkSZIfNl+IJOpMEyzyggETGyQIoae6dJxjSYFYaK/UVpiX3WCRBw=="/>
                 <enclosure url="https://raw.githubusercontent.com/akaalias/GetFridgeMagnets/main/Archive/FridgeMagnets1.0.9-1.0.5.delta" sparkle:deltaFrom="1.0.5" length="41838" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="el0RcMU10KRRwyN/qp3idFqU2K2Xl50lbweMiqEgkVQmCsUt5gH7ZW7iYwDe2CuMvbRv9Sj3T0ypWLHOCfP7AA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.8</title>
-            <pubDate>Sat, 24 Jun 2023 12:49:02 +0200</pubDate>
-            <sparkle:version>1.0.8</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
-            <description><![CDATA[<h1>Updates Settings Window</h1>
-]]></description>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/akaalias/GetFridgeMagnets/main/Archive/FridgeMagnets-1.0.8.dmg" length="1266194" type="application/octet-stream" sparkle:edSignature="bgU750MZ/D/jBn8gtyUf7II1PFX9Ly3uLhz4Lc+7/kjx9ExeqcKjRcfex+ASdDTCPNwag8OuRk0PHwbt8XoCAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/akaalias/GetFridgeMagnets/main/Archive/FridgeMagnets1.0.8-1.0.7.delta" sparkle:deltaFrom="1.0.7" length="36318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="+Tfc23EgZR6ltYyYWUxFYDmd461mGowZXrbrfeCIe1Nivb0V2LbQiMh7richH6p4PAY3DhfxPimUh/EAUiulDA=="/>
-                <enclosure url="https://raw.githubusercontent.com/akaalias/GetFridgeMagnets/main/Archive/FridgeMagnets1.0.8-1.0.6.delta" sparkle:deltaFrom="1.0.6" length="36126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="PR16/VNNaQamY9y/SEgg9PSP3KMdCKHWdGzaAzeomurgLAI4cRV59znlgRgIlMp77ggHLPblGJmLS8h0XJ0fAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/akaalias/GetFridgeMagnets/main/Archive/FridgeMagnets1.0.8-1.0.5.delta" sparkle:deltaFrom="1.0.5" length="41746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="rIRc3xVlrMXAztVlP55y6ydM8g0FzpwqjcAtQUivPe2UVcyOuqbKh7MiuktwFkG7hrLoT19N30JYaGb3pGtYAA=="/>
             </sparkle:deltas>
         </item>
     </channel>
